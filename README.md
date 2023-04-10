@@ -7,6 +7,6 @@
 
 - 👯 Mi objetivo es colaborar en un equipo de trabajo aportando conocimientos y la mejor predisposicion para lograr un objetivo en común.
 - 💬 Si te interesa mi perfil podés preguntarme sobre los proyectos en los que trabajé. 
-- 📫 Puedes contartarme vía mail: Julikisner@gmail.com o en linkedin me encontrás como Julian Kisner 
+- 📫 Puedes contartarme vía mail: Julikisner@gmail.com o en linkedin me encontrás como Julian Kisner "https://www.linkedin.com/in/juli%C3%A1n-kisner-706b55173/"
 
 
