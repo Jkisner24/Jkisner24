@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola 👋
 
 <!--
 **Jkisner24/Jkisner24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+- 🔭 Me encuentro trabajando con tecnologías como React, Javascript, Sql, Sequelize, MongoDB, Bootstrap, Css y Html. 
+- 🌱 También estoy aprendiendo TypeScript.
+- 👯 Mi objetivo es colaborar en un equipo de trabajo aportando conocimientos y la mejor predisposicion para lograr un objetivo.
+- 💬 Si te interesa mi perfil podés preguntarme sobre los proyectos en los que trabajé. 
+- 📫 Puedes contartarme vía mail: Julikisner@gmail.com o en linkedin me encontrás como Julian Kisner 
+
+
 -->
