@@ -1,5 +1,8 @@
 ### Hola 👋
 
+### Mi nombre es Julián :smile:
+
+Soy un apasionado por la tecnología. :technologist:	
 
 
 - 🔭 Me encuentro trabajando con tecnologías como React, Javascript, Sql, Sequelize, MongoDB, Bootstrap, Css y Html. 
@@ -7,10 +10,19 @@
 
 - 👯 Mi objetivo es colaborar en un equipo de trabajo aportando conocimientos y la mejor predisposicion para lograr un objetivo en común.
 - 💬 Si te interesa mi perfil podés preguntarme sobre los proyectos en los que trabajé. 
-- 📫 Puedes contartarme vía mail: Julikisner@gmail.com o en linkedin me encontrás como Julian Kisner 
+
+### 💻 Contactame vía:
+
+          📫 Mail: Julikisner@gmail.com  
+          
+Podemos conectar en Linkedin : <a href="https://www.linkedin.com/in/juli%C3%A1n-kisner-706b55173/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+"></a>    
 
 
-### Tecnologias 
+
+
+
+### :electron:	Tecnologias 
 
 <a href="https://github.com/Jkisner24?tab=repositories"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/Jkisner24?tab=repositories"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -45,8 +57,6 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white</a>
-
 </p>
-
-
+          
 
