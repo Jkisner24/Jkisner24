@@ -11,14 +11,11 @@ Soy un apasionado por la tecnología. :technologist:
 - 👯 Mi objetivo es colaborar en un equipo de trabajo aportando conocimientos y la mejor predisposicion para lograr un objetivo en común.
 - 💬 Si te interesa mi perfil podés preguntarme sobre los proyectos en los que trabajé. 
 
-### 💻 Contactame vía:
 
-          📫 Mail: Julikisner@gmail.com  
+           📫 Gmail: Julikisner@gmail.com 
+           👉Linkedin: Julián Kisner
+
           
-<p> Podemos conectar en Gmail </p>
-
-<a href="mailto: julikisner@gmail.com" img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>    
-
 
 
 
@@ -60,4 +57,5 @@ Soy un apasionado por la tecnología. :technologist:
       <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white</a>
 </p>
           
+
 
