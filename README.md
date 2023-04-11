@@ -15,8 +15,9 @@ Soy un apasionado por la tecnología. :technologist:
 
           📫 Mail: Julikisner@gmail.com  
           
-Podemos conectar en Linkedin : <a href="https://www.linkedin.com/in/juli%C3%A1n-kisner-706b55173/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-"></a>    
+<p> Podemos conectar en Gmail </p>
+
+<a href="mailto: julikisner@gmail.com" img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>    
 
 
 
